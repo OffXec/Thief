@@ -5,7 +5,7 @@
 </p>
 
 #### About:
-Thief is a multi-wrapper tool coded in BASH & fully automates the [subdomain takeover](https://www.hackerone.com/blog/Guide-Subdomain-Takeovers) proccess. 
+Thief is a multi-wrapper BASH tool that fully automates the [subdomain takeover](https://www.hackerone.com/blog/Guide-Subdomain-Takeovers) proccess. 
 
 ##### Tools Wrapped/Creds:
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) 
